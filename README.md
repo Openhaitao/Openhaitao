@@ -8,7 +8,6 @@ You can communicate with me at any time about those ideas you find quick.
 
 My WeChat ID is: ChatHHT.
 
-### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
