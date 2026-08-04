@@ -1,16 +1,21 @@
-## Hey 👋, I'm Haitao!
+# Hi, I'm Haitao 👋
 
-I am an investor at Linear Capital, and in addition to investing, I am very passionate about programming and creating products, and consider it a lifelong hobby.
+I invest in technology by day, and build it with a team of AI agents by night.
 
-You can communicate with me at any time about those ideas you find quick.
+Investor at [Linear Capital](https://www.linear.vc). Programming and product-making are my lifelong hobbies — most of the green squares on this profile are joint work between me and my agents.
 
-My WeChat ID is: ChatHHT.
+## Building now
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Openhaitao/Openhaitao/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Openhaitao/Openhaitao/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Openhaitao/Openhaitao/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+- 🌍 **gogoing** — a spatial way to browse videos on iOS: content rises from behind a planet's horizon, drifts past you, and falls back below. Swift + RealityKit, zero dependencies.
+- 💬 **weixin-agent-sdk** — talk to your entire AI agent team from WeChat: one bridge, `/agent` to switch anyone in, attachments both ways.
+- 🤖 **An agent-run studio** — a Mac mini where AI agents research, code, review and ship around the clock, coordinated through [Raft](https://raft.build).
 
+## Exploring
+
+- 🎥 Programmatic video with Remotion — videos written as React code, rendered by agents
+- 🧪 New agent tools, usually the week they ship
+
+## Find me
+
+- 💬 WeChat: **ChatHHT** — always happy to talk about products, agents, and the ideas you can't stop thinking about
+- 🏢 [Linear Capital](https://www.linear.vc)
