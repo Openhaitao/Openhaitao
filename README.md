@@ -8,12 +8,6 @@ Investor at [Linear Capital](https://www.linear.vc). Programming and product-mak
 
 - 🌍 **gogoing** — a spatial way to browse videos on iOS: content rises from behind a planet's horizon, drifts past you, and falls back below. Swift + RealityKit, zero dependencies.
 - 💬 **weixin-agent-sdk** — talk to your entire AI agent team from WeChat: one bridge, `/agent` to switch anyone in, attachments both ways.
-- 🤖 **An agent-run studio** — a Mac mini where AI agents research, code, review and ship around the clock, coordinated through [Raft](https://raft.build).
-
-## Exploring
-
-- 🎥 Programmatic video with Remotion — videos written as React code, rendered by agents
-- 🧪 New agent tools, usually the week they ship
 
 ## Find me
 
