@@ -7,7 +7,10 @@ Investor at [Linear Capital](https://www.linear.vc). Programming and product-mak
 ## Building now
 
 - 🌍 **gogoing** — a spatial way to browse videos on iOS: content rises from behind a planet's horizon, drifts past you, and falls back below. Swift + RealityKit, zero dependencies.
-- 💬 **weixin-agent-sdk** — talk to your entire AI agent team from WeChat: one bridge, `/agent` to switch anyone in, attachments both ways.
+- 💬 **[weixin-agent-sdk](https://github.com/Openhaitao/weixin-agent-sdk)** — talk to your entire AI agent team from WeChat: one bridge, `/agent` to switch anyone in, attachments both ways.
+- 🔋 **[TokenCell](https://github.com/Openhaitao/TokenCell)** — a battery-style usage widget for Claude Code and Codex, so you always know how much juice is left.
+- 🐰 **[NowNow](https://github.com/Openhaitao/NowNow)** — a shared "free paper" for small teams: Apple-Notes-style goal pages with the thinnest possible collaboration layer. A note first, a system second.
+- 💭 **[ChatsHub](https://github.com/Openhaitao/ChatsHub)** — an early-stage chat product, being built in the open. One day, it might change the world.
 
 ## Find me
 
